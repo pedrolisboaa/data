@@ -1,0 +1,27 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações do VSCode (se você usar)
+.vscode/
+
+# Ignorar arquivos de dependências criados por pip
+pip-log.txt
+
+# Ignorar arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos de ambiente (env)
+.env
+*.env
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
